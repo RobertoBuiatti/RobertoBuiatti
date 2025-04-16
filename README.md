@@ -1,66 +1,50 @@
-<h1 align="center">Olá! 👋 Eu sou o Roberto Buiatti</h1>
+<h1 align="center">👋 Olá! Eu sou o Roberto Buiatti</h1>
 
 <p align="center">
-  🚀 Desenvolvedor Full Stack apaixonado por tecnologia, código limpo e soluções criativas.  
+  🚀 Desenvolvedor Full Stack apaixonado por tecnologia, código limpo e soluções criativas.
 </p>
 
 <p align="center">
   <a href="https://github.com/RobertoBuiatti">
-    <img src="https://komarev.com/ghpvc/?username=RobertoBuiatti&style=flat-square&color=blue" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=RobertoBuiatti&style=flat-square&color=blue" alt="Visualizações de Perfil" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor com foco em **JavaScript, React, Node.js** e tecnologias web modernas. Gosto de construir projetos do zero, aprender constantemente e colaborar com pessoas que também curtem criar coisas incríveis com tecnologia.
+Sou um desenvolvedor com foco em **JavaScript, React, Node.js** e tecnologias web modernas. Gosto de criar soluções do zero, aprender constantemente e colaborar com pessoas que também curtem tecnologia.
 
-Atualmente estou:
+### 💼 Atualmente:
 
 - 📱 Desenvolvendo apps com **React Native + Expo**
-- 🌐 Criando APIs REST com **Node.js e MongoDB**
-- 📊 Explorando **análises de dados** e automações com **Python**
-- 💼 Aberto a novas oportunidades e colaborações!
+- 🌐 Criando APIs REST com **Node.js + MongoDB**
+- 📊 Explorando **automação e análise de dados com Python**
+- 🤝 Aberto a oportunidades e parcerias tech!
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="RobertoBuiatti-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="RobertoBuiatti-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="RobertoBuiatti-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="RobertoBuiatti-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="RobertoBuiatti-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="RobertoBuiatti-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="RobertoBuiatti-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
-
-<br/>
-
-- 💻 **Frontend**: HTML5, CSS3, JavaScript (ES6+), React
-- ⚙️ **Backend**: Node.js, Express.js
-- 🛢️ **Banco de Dados**: MongoDB, MySQL (básico)
-- 📱 **Mobile**: React Native com Expo
-- 🧪 **Testes**: Jest (em andamento)
-- 🌐 **APIs**: RESTful, integração com Firebase
-- 🔧 **Ferramentas**: Git, GitHub, VS Code, Postman, Figma
-
----
-
-### 📊 Estatísticas GitHub
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoBuiatti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoBuiatti&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,c,mongodb,mysql,express,jest,firebase,git,github,vscode,postman,figma" />
 </div>
 
 ---
 
-### 🌍 Onde me encontrar
+## 📈 Estatísticas GitHub
 
-<div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoBuiatti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoBuiatti&layout=compact&langs_count=8&theme=github_dark" alt="Linguagens mais usadas"/>
+</div>
+
+---
+
+## 🌍 Onde me encontrar
+
+<div align="center">
   <a href="https://www.instagram.com/roberto.buiatti/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
@@ -74,53 +58,49 @@ Atualmente estou:
 
 ---
 
-### 📌 Projetos em Destaque
+## 📌 Projetos em Destaque
 
-🚀 Aqui estão alguns dos meus repositórios mais relevantes:
+### 🔹 [Merge-Sorte-Bidirecional-Buiatti](https://github.com/RobertoBuiatti/Merge-Sorte-Bidirecional-Buiatti)
+> Implementação personalizada do algoritmo Merge Sort com abordagem bidirecional.
 
-#### 🔹 [Merge-Sorte-Bidirecional-Buiatti](https://github.com/RobertoBuiatti/Merge-Sorte-Bidirecional-Buiatti)
-> Implementação personalizada do algoritmo Merge Sort com abordagem bidirecional. Ideal para estudos de algoritmos de ordenação em Python.
-
-- Linguagem: Python  
 - 🧠 Foco em lógica e performance  
-- Estrutura clara e comentada
+- 💡 Ideal para estudos de algoritmos em **Python**
 
 ---
 
-#### 🔹 [Busca-Binaria-Buiatti](https://github.com/RobertoBuiatti/Busca-Binaria-Buiatti)
-> Algoritmo de busca binária implementado em Python, com explicações e exemplos. Excelente para estudos de algoritmos de busca eficientes.
+### 🔹 [Busca-Binaria-Buiatti](https://github.com/RobertoBuiatti/Busca-Binaria-Buiatti)
+> Algoritmo de busca binária com exemplos práticos e explicações.
 
-- Linguagem: Python  
-- 📚 Didático e bem organizado  
-- Ideal para iniciantes/intermediários
-
----
-
-#### 🔹 Projeto colaborativo: **Garanto Seguros – IFTM**
-> Sistema acadêmico de gerenciamento para corretoras de seguros, com arquitetura modularizada e participação em equipe. Utilizou submódulos Git para organização do front e back-end.
-
-- 📂 Estrutura em múltiplos módulos (`frontend`, `backend`, `processing`)  
-- 👨‍💻 Colaboração em equipe (com outros 2 devs)  
-- 🔒 Repositório privado (GitHub)  
-- Participação ativa no desenvolvimento do sistema
+- 📚 Estrutura didática  
+- 👨‍🏫 Perfeito para iniciantes/intermediários em Python
 
 ---
 
-#### ⚒️ *Projeto em desenvolvimento: [Agenda Serviços](https://github.com/RobertoBuiatti)*
-> Aplicativo completo de agendamentos, com funcionalidades para gestão de clientes, comandas, produtos, despesas e muito mais. Desenvolvido com **React Native, Node.js e MongoDB**.
+### 🔹 Garanto Seguros – IFTM *(Projeto Colaborativo)*
+> Sistema modular de gerenciamento para corretoras de seguros.
 
-- 💡 Em construção  
-- Integração com API REST e JWT  
-- Hospedagem em Render + MongoDB Atlas
-
----
-
-#### 🔹 [Estudos-Extras](https://github.com/RobertoBuiatti/Estudos-Extras)
-> Um repositório com anotações e experimentos diversos, incluindo testes de estilização em CSS e trechos de código para estudo.
-
-- Linguagem: CSS   
-- Atualizado recentemente
+- 📂 Estrutura: `frontend`, `backend`, `processing`  
+- 👨‍💻 Colaboração em equipe com Git Submodules  
+- 🔐 Repositório privado (GitHub)
 
 ---
 
-⭐️ Se curtir algum projeto meu, deixe uma estrela, isso me ajuda muito!
+### 🔹 [Agenda Serviços](https://github.com/RobertoBuiatti) *(em desenvolvimento)*
+> App completo para agendamentos e gestão de negócios.
+
+- 📱 **React Native + Node.js + MongoDB**
+- 🔐 Autenticação com JWT  
+- ☁️ Hospedagem com Render + MongoDB Atlas
+
+---
+
+### 🔹 [Estudos-Extras](https://github.com/RobertoBuiatti/Estudos-Extras)
+> Repositório com anotações, testes de CSS e experimentos pessoais.
+
+- 🎨 Foco em estilização  
+- 🧪 Playground de aprendizado
+
+---
+
+## ⭐️ Se curtir algum projeto, deixa uma estrela!  
+Isso me ajuda muito e me motiva a continuar criando coisas legais 🚀
