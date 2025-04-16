@@ -101,6 +101,7 @@ Sou um desenvolvedor com foco em **JavaScript, React, Node.js** e tecnologias we
 - 📱 **React Native + Node.js + MongoDB**
 - 🔐 Autenticação com JWT  
 - ☁️ Hospedagem com Render + MongoDB Atlas
+- 🔐 Repositório privado (GitHub)
 
 ---
 
