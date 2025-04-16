@@ -25,6 +25,16 @@ Sou um desenvolvedor com foco em **JavaScript, React, Node.js** e tecnologias we
 
 ---
 
+- 💻 **Frontend**: HTML5, CSS3, JavaScript (ES6+), React
+- ⚙️ **Backend**: Node.js, Express.js
+- 🛢️ **Banco de Dados**: MongoDB, MySQL (básico)
+- 📱 **Mobile**: React Native com Expo
+- 🧪 **Testes**: Jest (em andamento)
+- 🌐 **APIs**: RESTful, integração com Firebase
+- 🔧 **Ferramentas**: Git, GitHub, VS Code, Postman, Figma
+
+---
+
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
