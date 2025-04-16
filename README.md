@@ -74,13 +74,44 @@ Atualmente estou:
 
 ---
 
-### 📌 Projetos em destaque *(adicione aqui depois)*
+### 📌 Projetos em Destaque
 
-- 🧾 **Agenda Serviços** – App completo de agendamento, comissionamento, finanças e mais.
-- 📦 **Nome do Projeto X** – Pequena descrição.
-- 📈 **Dashboard Y** – Pequena descrição.
+🚀 Aqui estão alguns dos meus repositórios mais relevantes:
+
+#### 🔹 [Estudos-Extras](https://github.com/RobertoBuiatti/Estudos-Extras)
+> Um repositório com anotações e experimentos diversos, incluindo testes de estilização em CSS e trechos de código para estudo.
+
+- Linguagem: CSS
+- ⭐️ Estrela da comunidade
+- Atualizado recentemente
+
+---
+
+#### 🔹 [Merge-Sorte-Bidirecional-Buiatti](https://github.com/RobertoBuiatti/Merge-Sorte-Bidirecional-Buiatti)
+> Implementação personalizada do algoritmo Merge Sort com abordagem bidirecional. Ideal para estudos de algoritmos de ordenação em Python.
+
+- Linguagem: Python
+- 🧠 Foco em lógica e performance
+- Estrutura clara e comentada
+
+---
+
+#### 🔹 [Busca-Binaria-Buiatti](https://github.com/RobertoBuiatti/Busca-Binaria-Buiatti)
+> Algoritmo de busca binária implementado em Python, com explicações e exemplos. Excelente para estudos de algoritmos de busca eficientes.
+
+- Linguagem: Python
+- 📚 Didático e bem organizado
+- Ideal para iniciantes/intermediários
+
+---
+
+#### ⚒️ *Projeto em desenvolvimento: [Agenda Serviços](https://github.com/RobertoBuiatti)*
+> Aplicativo completo de agendamentos, com funcionalidades para gestão de clientes, comandas, produtos, despesas e muito mais. Desenvolvido com **React Native, Node.js e MongoDB**.
+
+- 💡 Em construção
+- Integração com API REST e JWT
+- Hospedagem em Render + MongoDB Atlas
 
 ---
 
 ⭐️ Se curtir algum projeto meu, deixe uma estrela, isso me ajuda muito!
-
