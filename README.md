@@ -78,20 +78,11 @@ Atualmente estou:
 
 🚀 Aqui estão alguns dos meus repositórios mais relevantes:
 
-#### 🔹 [Estudos-Extras](https://github.com/RobertoBuiatti/Estudos-Extras)
-> Um repositório com anotações e experimentos diversos, incluindo testes de estilização em CSS e trechos de código para estudo.
-
-- Linguagem: CSS
-- ⭐️ Estrela da comunidade
-- Atualizado recentemente
-
----
-
 #### 🔹 [Merge-Sorte-Bidirecional-Buiatti](https://github.com/RobertoBuiatti/Merge-Sorte-Bidirecional-Buiatti)
 > Implementação personalizada do algoritmo Merge Sort com abordagem bidirecional. Ideal para estudos de algoritmos de ordenação em Python.
 
-- Linguagem: Python
-- 🧠 Foco em lógica e performance
+- Linguagem: Python  
+- 🧠 Foco em lógica e performance  
 - Estrutura clara e comentada
 
 ---
@@ -99,18 +90,36 @@ Atualmente estou:
 #### 🔹 [Busca-Binaria-Buiatti](https://github.com/RobertoBuiatti/Busca-Binaria-Buiatti)
 > Algoritmo de busca binária implementado em Python, com explicações e exemplos. Excelente para estudos de algoritmos de busca eficientes.
 
-- Linguagem: Python
-- 📚 Didático e bem organizado
+- Linguagem: Python  
+- 📚 Didático e bem organizado  
 - Ideal para iniciantes/intermediários
+
+---
+
+#### 🔹 Projeto colaborativo: **Garanto Seguros – IFTM**
+> Sistema acadêmico de gerenciamento para corretoras de seguros, com arquitetura modularizada e participação em equipe. Utilizou submódulos Git para organização do front e back-end.
+
+- 📂 Estrutura em múltiplos módulos (`frontend`, `backend`, `processing`)  
+- 👨‍💻 Colaboração em equipe (com outros 2 devs)  
+- 🔒 Repositório privado (GitHub)  
+- Participação ativa no desenvolvimento do sistema
 
 ---
 
 #### ⚒️ *Projeto em desenvolvimento: [Agenda Serviços](https://github.com/RobertoBuiatti)*
 > Aplicativo completo de agendamentos, com funcionalidades para gestão de clientes, comandas, produtos, despesas e muito mais. Desenvolvido com **React Native, Node.js e MongoDB**.
 
-- 💡 Em construção
-- Integração com API REST e JWT
+- 💡 Em construção  
+- Integração com API REST e JWT  
 - Hospedagem em Render + MongoDB Atlas
+
+---
+
+#### 🔹 [Estudos-Extras](https://github.com/RobertoBuiatti/Estudos-Extras)
+> Um repositório com anotações e experimentos diversos, incluindo testes de estilização em CSS e trechos de código para estudo.
+
+- Linguagem: CSS   
+- Atualizado recentemente
 
 ---
 
