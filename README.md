@@ -49,7 +49,17 @@ Sou um desenvolvedor com foco em **JavaScript, React, Node.js** e tecnologias we
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,c,mongodb,mysql,express,jest,firebase,git,github,vscode,postman,figma" />
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
 ---
@@ -57,8 +67,17 @@ Sou um desenvolvedor com foco em **JavaScript, React, Node.js** e tecnologias we
 ## 📈 Estatísticas GitHub
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoBuiatti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoBuiatti&layout=compact&langs_count=8&theme=github_dark" alt="Linguagens mais usadas"/>
+
+![Perfil](https://img.shields.io/badge/Perfil-RobertoBuiatti-181717?style=for-the-badge&logo=github&logoColor=white)
+![Seguidores](https://img.shields.io/github/followers/RobertoBuiatti?label=Seguidores&style=for-the-badge&color=38bdf8&labelColor=0a0e17)
+![Linguagem principal](https://img.shields.io/badge/Linguagem%20principal-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+</div>
+
+<div align="center">
+<a href="https://github.com/RobertoBuiatti?tab=repositories" target="_blank">
+<img src="https://img.shields.io/badge/%F0%9F%93%82%20Ver%20todos%20os%20reposit%C3%B3rios-38bdf8?style=for-the-badge&labelColor=0a0e17" alt="Ver repositórios" />
+</a>
 </div>
 
 ---
