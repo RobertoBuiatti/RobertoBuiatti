@@ -169,8 +169,13 @@ Construo software de ponta a ponta: da modelagem do banco até a publicação na
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RobertoBuiatti&show_icons=true&hide_border=true&theme=tokyonight&locale=pt-br" alt="Estatísticas de RobertoBuiatti" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoBuiatti&layout=compact&hide_border=true&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas" />
+<img src="https://img.shields.io/github/followers/RobertoBuiatti?label=Seguidores&style=for-the-badge&color=38bdf8&labelColor=0a0e17" alt="Seguidores" />
+<img src="https://img.shields.io/badge/Linguagem%20principal-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0a0e17" alt="Linguagem principal" />
+<img src="https://img.shields.io/badge/Foco-Full%20Stack%20%2B%20Mobile-a78bfa?style=for-the-badge&labelColor=0a0e17" alt="Foco" />
+
+<a href="https://github.com/RobertoBuiatti?tab=repositories" target="_blank">
+<img src="https://img.shields.io/badge/%F0%9F%93%82%20Ver%20todos%20os%20reposit%C3%B3rios-38bdf8?style=for-the-badge&labelColor=0a0e17" alt="Ver repositórios" />
+</a>
 
 </div>
 
